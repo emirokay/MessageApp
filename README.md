@@ -43,6 +43,7 @@ The primary goal of the project is to improve parental involvement in children's
 
 ## Screenshots
 
-![myApp](https://github.com/user-attachments/assets/fa63c4dd-3244-4fdd-984f-4854b566b36a)
+![myApp](https://github.com/user-attachments/assets/901c5d61-be36-4626-9a1a-4237e08731d7)
+
 
 
