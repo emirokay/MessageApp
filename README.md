@@ -6,6 +6,9 @@ This project is a real-time iOS messaging application, developed as part of my u
 
 The primary goal of the project is to improve parental involvement in children's early education by breaking communication barriers with a robust, user-friendly platform.
 
+## Screen Recording
+https://github.com/user-attachments/assets/ce757c30-5b3a-48cb-a7db-ae37d801facd
+
 ## Technical Notes:
 - The WebImage(url: URL(string: image)).placeholder code in ChatMessageCell.swift has been commented out due to compatibility issues with the current version.
 - The GoogleService-Info.plist file is not included in this repository. You must add it to the project to configure Firebase.
